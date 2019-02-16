@@ -31,6 +31,7 @@
   * [DropSeq \(Mascko 2015\)](genomics/readings/dropseq-mascko-2015.md)
   * [Review of rare variants in disease \(Bomba 2017\)](genomics/readings/review-of-rare-variants-in-disease-bomba-2017.md)
 * [Desktop/Excel Tools](genomics/tools.md)
+* [Statistics Review](genomics/statistics-review.md)
 
 ## Bioinformatics Tools
 
