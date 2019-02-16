@@ -9,7 +9,7 @@
 * has read lengths up to 1kb, is accurate, but relatively low-throughput
 * can be read on a gel \(older\) or through a capillary \(more modern\)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 
 

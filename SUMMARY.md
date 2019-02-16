@@ -1,21 +1,24 @@
 # Table of contents
 
 * [Home](README.md)
-* [Sequencing Technologies](sequencing-technologies/README.md)
-  * [Overview](sequencing-technologies/overview.md)
-  * [Sanger Sequencing](sequencing-technologies/sanger-sequencing.md)
-  * [Pyrosequencing](sequencing-technologies/pyrosequencing.md)
-  * [SOLiD Sequencing](sequencing-technologies/solid-sequencing.md)
-  * [Short-Read Sequencing](sequencing-technologies/short-read-sequencing/README.md)
-    * [Illumina](sequencing-technologies/short-read-sequencing/illumina.md)
-  * [Long-Read Sequenicng](sequencing-technologies/long-read-sequenicng/README.md)
-    * [Pacific Biosciences \(PacBio\)](sequencing-technologies/long-read-sequenicng/pacific-biosciences-pacbio.md)
-    * [Untitled](sequencing-technologies/long-read-sequenicng/untitled.md)
-  * [Paper: Natarajan](sequencing-technologies/paper-natarajan.md)
-  * [RNA Sequencing](sequencing-technologies/rna-sequencing.md)
-  * [Single Cell RNA Sequencing](sequencing-technologies/single-cell-rna-sequencing.md)
-* [Phylogenetics](phylogenetics.md)
-* [Tools](tools.md)
+
+## Genomics
+
+* [Sequencing Technologies](genomics/sequencing-technologies/README.md)
+  * [Overview](genomics/sequencing-technologies/overview.md)
+  * [Sanger Sequencing](genomics/sequencing-technologies/sanger-sequencing.md)
+  * [Pyrosequencing](genomics/sequencing-technologies/pyrosequencing.md)
+  * [SOLiD Sequencing](genomics/sequencing-technologies/solid-sequencing.md)
+  * [Short-Read Sequencing](genomics/sequencing-technologies/short-read-sequencing/README.md)
+    * [Illumina](genomics/sequencing-technologies/short-read-sequencing/illumina.md)
+  * [Long-Read Sequenicng](genomics/sequencing-technologies/long-read-sequenicng/README.md)
+    * [Pacific Biosciences \(PacBio\)](genomics/sequencing-technologies/long-read-sequenicng/pacific-biosciences-pacbio.md)
+    * [Untitled](genomics/sequencing-technologies/long-read-sequenicng/untitled.md)
+  * [Paper: Natarajan](genomics/sequencing-technologies/paper-natarajan.md)
+  * [RNA Sequencing](genomics/sequencing-technologies/rna-sequencing.md)
+  * [Single Cell RNA Sequencing](genomics/sequencing-technologies/single-cell-rna-sequencing.md)
+* [Phylogenetics](genomics/phylogenetics.md)
+* [Desktop/Excel Tools](genomics/tools.md)
 
 ## Bioinformatics Tools
 
