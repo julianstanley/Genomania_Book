@@ -27,7 +27,9 @@
   * [Gene Set Enrichment Analysis](genomics/genome-analysis/gene-set-enrichment-analysis.md)
   * [MSigDb](genomics/genome-analysis/msigdb.md)
 * [Readings](genomics/readings/README.md)
-  * [Paper: Natarajan](genomics/readings/paper-natarajan.md)
+  * [WGS for Rare Variants \(Natarajan 2017\)](genomics/readings/paper-natarajan.md)
+  * [DropSeq \(Mascko 2015\)](genomics/readings/dropseq-mascko-2015.md)
+  * [Review of rare variants in disease \(Bomba 2017\)](genomics/readings/review-of-rare-variants-in-disease-bomba-2017.md)
 * [Desktop/Excel Tools](genomics/tools.md)
 
 ## Bioinformatics Tools
