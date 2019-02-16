@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Genomics](README.md)
+* [Home](README.md)
 * [Sequencing Technologies](sequencing-technologies/README.md)
   * [Overview](sequencing-technologies/overview.md)
   * [Sanger Sequencing](sequencing-technologies/sanger-sequencing.md)
@@ -16,4 +16,8 @@
   * [Single Cell RNA Sequencing](sequencing-technologies/single-cell-rna-sequencing.md)
 * [Phylogenetics](phylogenetics.md)
 * [Tools](tools.md)
+
+## Bioinformatics Tools
+
+* [Untitled](bioinformatics-tools/untitled.md)
 

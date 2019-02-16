@@ -1,2 +1,2 @@
-# Genomics
+# Home
 
