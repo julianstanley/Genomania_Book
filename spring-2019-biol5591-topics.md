@@ -32,7 +32,11 @@
     </tr>
     <tr>
       <td style="text-align:center">Lecture 3, January 15</td>
-      <td style="text-align:center">Association loci and rare variants</td>
+      <td style="text-align:center">
+        <p>Association loci and rare variants
+          <br />Burden tests</p>
+        <p>SKAT</p>
+      </td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
@@ -75,17 +79,24 @@
     </tr>
     <tr>
       <td style="text-align:center">Lecture 10, February 7</td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>Review: rare and low-frequency variants</p>
+        <p>Haplotype Phasing</p>
+        <p>Genotype imputation</p>
+        <p>Manhattan Plots</p>
+        <p>De Bruijn Graphs</p>
+        <p>Trinity</p>
+      </td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">Lecture 11, February 12</td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">Quantile Normalization</td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">Lecture 12, February 14</td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">QQ Plots</td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
