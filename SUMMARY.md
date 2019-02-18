@@ -6,7 +6,6 @@
 ## Genomics
 
 * [Sequencing Technologies](genomics/sequencing-technologies/README.md)
-  * [Overview](genomics/sequencing-technologies/overview.md)
   * [Sanger Sequencing](genomics/sequencing-technologies/sanger-sequencing.md)
   * [Pyrosequencing](genomics/sequencing-technologies/pyrosequencing.md)
   * [SOLiD Sequencing](genomics/sequencing-technologies/solid-sequencing.md)
