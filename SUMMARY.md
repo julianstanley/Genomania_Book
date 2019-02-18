@@ -14,11 +14,12 @@
   * [RNA Sequencing](genomics/sequencing-technologies/rna-sequencing.md)
   * [qPCR and ddPCR](genomics/sequencing-technologies/ddpcr.md)
   * [Single Cell RNA Sequencing](genomics/sequencing-technologies/single-cell-rna-sequencing.md)
-* [Phylogenetics](genomics/phylogenetics.md)
-* [Genome Alignment](genomics/genome-alignment/README.md)
-  * [Trinity](genomics/genome-alignment/trinity.md)
-  * [DeBruijn Graphs](genomics/genome-alignment/debruijn-graphs.md)
-* [Genome Analysis](genomics/genome-analysis/README.md)
+* [Phylogenetics](genomics/phylogenetics/README.md)
+  * [Basic Phylogenetic Trees](genomics/phylogenetics/basic-phylogenetic-trees.md)
+* [Genomic Analysis](genomics/genomic-analysis/README.md)
+  * [Phasing](genomics/genomic-analysis/phasing.md)
+  * [Imputation](genomics/genomic-analysis/imputation.md)
+* [Expression Analysis](genomics/genome-analysis/README.md)
   * [Differential Expression Analysis](genomics/genome-analysis/differential-expression-analysis.md)
   * [Gene Set Enrichment Analysis](genomics/genome-analysis/gene-set-enrichment-analysis.md)
   * [MSigDb](genomics/genome-analysis/msigdb.md)
@@ -27,9 +28,28 @@
   * [DropSeq \(Mascko 2015\)](genomics/readings/dropseq-mascko-2015.md)
   * [Review of rare variants in disease \(Bomba 2017\)](genomics/readings/review-of-rare-variants-in-disease-bomba-2017.md)
 * [Desktop/Excel Tools](genomics/tools.md)
-* [Statistics Review](genomics/statistics-review.md)
+* [Statistics Review](genomics/statistics-review/README.md)
+  * [Fisher's Exact Test](genomics/statistics-review/fishers-exact-test.md)
 
-## Bioinformatics Tools
+## Statistics, Mathematics, and Visualization
 
-* [UGENE](bioinformatics-tools/untitled.md)
+* [Rare Variant Association](statistics/rare-variant-association/README.md)
+  * [Burden Tests](statistics/rare-variant-association/burden-tests.md)
+  * [SKAT](statistics/rare-variant-association/skat.md)
+* [Gene expression analysis](statistics/gene-expression-analysis/README.md)
+  * [QQ Plots](statistics/gene-expression-analysis/qq-plots.md)
+  * [Quantile Normalization](statistics/gene-expression-analysis/quantile-normalization.md)
+* [Single Cell RNAseq Analysis](statistics/single-cell-rnaseq-analysis/README.md)
+  * [tSNE](statistics/single-cell-rnaseq-analysis/tsne.md)
+* [Genome Assembly](statistics/genome-assembly/README.md)
+  * [De Bruijn Graphs](statistics/genome-assembly/de-bruijn-graphs.md)
+* [GWAS](statistics/gwas/README.md)
+  * [Manhattan Plots](statistics/gwas/manhattan-plots.md)
+
+## Bioinformatics Tools and Algorithms
+
+* [UGENE](bioinformatics-tools/untitled/README.md)
+  * [Building phylogenetic trees with UGENE](bioinformatics-tools/untitled/building-phylogenetic-trees-with-ugene.md)
+* [Genome Alignment](bioinformatics-tools/genome-alignment/README.md)
+  * [Trinity](bioinformatics-tools/genome-alignment/trinity.md)
 

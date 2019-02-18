@@ -1,2 +1,0 @@
-# DeBruijn Graphs
-
