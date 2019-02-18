@@ -19,7 +19,8 @@
         <p>Illumina sequencing</p>
         <p>SOLiD sequencing</p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center"><a href="genomics/sequencing-technologies/sanger-sequencing.md">Sanger Sequencing</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">Lecture 2, January 10</td>

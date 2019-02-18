@@ -1,2 +1,2 @@
-# ddPCR
+# qPCR and ddPCR
 

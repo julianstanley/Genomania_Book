@@ -1,2 +1,0 @@
-# Pacific Biosciences \(PacBio\)
-
