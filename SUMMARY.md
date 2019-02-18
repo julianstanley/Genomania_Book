@@ -27,12 +27,12 @@
   * [WGS for Rare Variants \(Natarajan 2017\)](genomics/readings/paper-natarajan.md)
   * [DropSeq \(Mascko 2015\)](genomics/readings/dropseq-mascko-2015.md)
   * [Review of rare variants in disease \(Bomba 2017\)](genomics/readings/review-of-rare-variants-in-disease-bomba-2017.md)
-* [Desktop/Excel Tools](genomics/tools.md)
-* [Statistics Review](genomics/statistics-review/README.md)
-  * [Fisher's Exact Test](genomics/statistics-review/fishers-exact-test.md)
+* [Excel Tips and Tricks](genomics/tools.md)
 
 ## Statistics, Mathematics, and Visualization
 
+* [Introductory Statistics Review](statistics/introductory-statistics-review/README.md)
+  * [Fisher's Exact Test](statistics/introductory-statistics-review/fishers-exact-test.md)
 * [Rare Variant Association](statistics/rare-variant-association/README.md)
   * [Burden Tests](statistics/rare-variant-association/burden-tests.md)
   * [SKAT](statistics/rare-variant-association/skat.md)

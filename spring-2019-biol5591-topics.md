@@ -40,7 +40,7 @@
         </p>
         <p><a href="genomics/sequencing-technologies/pacbio-smrt-sequencing.md">PacBio SMRT Sequencing</a>
         </p>
-        <p><a href="genomics/statistics-review/fishers-exact-test.md">Fisher's Exact Test</a>
+        <p><a href="statistics/introductory-statistics-review/fishers-exact-test.md">Fisher's Exact Test</a>
         </p>
       </td>
     </tr>
