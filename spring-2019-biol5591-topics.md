@@ -144,7 +144,7 @@
     <tr>
       <td style="text-align:center">Lecture 12, February 14</td>
       <td style="text-align:center">QQ Plots</td>
-      <td style="text-align:center"><a href="statistics/gene-expression-analysis/qq-plots.md">QQ Plots</a>
+      <td style="text-align:center"><a href>QQ Plots</a>
       </td>
     </tr>
     <tr>

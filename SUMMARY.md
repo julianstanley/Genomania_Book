@@ -27,7 +27,9 @@
   * [WGS for Rare Variants \(Natarajan 2017\)](genomics/readings/paper-natarajan.md)
   * [DropSeq \(Mascko 2015\)](genomics/readings/dropseq-mascko-2015.md)
   * [Review of rare variants in disease \(Bomba 2017\)](genomics/readings/review-of-rare-variants-in-disease-bomba-2017.md)
-* [Excel Tips and Tricks](genomics/tools.md)
+* [Excel Tips and Tricks](genomics/tools/README.md)
+  * [Quantile Normalization](genomics/tools/quantile-normalization.md)
+  * [Making a QQ Plot](genomics/tools/making-a-qq-plot.md)
 
 ## Statistics, Mathematics, and Visualization
 
@@ -37,7 +39,6 @@
   * [Burden Tests](statistics/rare-variant-association/burden-tests.md)
   * [SKAT](statistics/rare-variant-association/skat.md)
 * [Gene expression analysis](statistics/gene-expression-analysis/README.md)
-  * [QQ Plots](statistics/gene-expression-analysis/qq-plots.md)
   * [Quantile Normalization](statistics/gene-expression-analysis/quantile-normalization.md)
 * [Single Cell RNAseq Analysis](statistics/single-cell-rnaseq-analysis/README.md)
   * [tSNE](statistics/single-cell-rnaseq-analysis/tsne.md)
