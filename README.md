@@ -6,7 +6,7 @@ description: >-
 
 # Home
 
-If you're coming from Spring 2019 BIOL5591 Advanced Genomics, the format of this site doesn't perfectly match up with the class material. Take a look at the Spring 2019 BIOL5591 Table for the topics corresponding to each lecture:
+If you're coming from Spring 2019 BIOL5591 Advanced Genomics, take a look at this next page for where you can find the topics we covered in class:
 
 {% page-ref page="spring-2019-biol5591-topics.md" %}
 
