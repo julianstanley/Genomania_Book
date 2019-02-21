@@ -138,13 +138,13 @@
     <tr>
       <td style="text-align:center">Lecture 11, February 12</td>
       <td style="text-align:center">Quantile Normalization</td>
-      <td style="text-align:center"><a href="statistics/gene-expression-analysis/quantile-normalization.md">Quantile Normalization</a>
+      <td style="text-align:center"><a href="genomics/tools/quantile-normalization.md">Quantile Normalization</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">Lecture 12, February 14</td>
       <td style="text-align:center">QQ Plots</td>
-      <td style="text-align:center"><a href>QQ Plots</a>
+      <td style="text-align:center"><a href="genomics/tools/making-a-qq-plot.md">QQ Plots</a>
       </td>
     </tr>
     <tr>

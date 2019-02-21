@@ -1,2 +1,2 @@
-# Quantile Normalization
+# Quantile Normalization Statistics
 

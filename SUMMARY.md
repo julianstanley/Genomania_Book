@@ -39,7 +39,7 @@
   * [Burden Tests](statistics/rare-variant-association/burden-tests.md)
   * [SKAT](statistics/rare-variant-association/skat.md)
 * [Gene expression analysis](statistics/gene-expression-analysis/README.md)
-  * [Quantile Normalization](statistics/gene-expression-analysis/quantile-normalization.md)
+  * [Quantile Normalization Statistics](statistics/gene-expression-analysis/quantile-normalization.md)
 * [Single Cell RNAseq Analysis](statistics/single-cell-rnaseq-analysis/README.md)
   * [tSNE](statistics/single-cell-rnaseq-analysis/tsne.md)
 * [Genome Assembly](statistics/genome-assembly/README.md)

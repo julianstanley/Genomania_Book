@@ -29,7 +29,7 @@ In short, the pyrosequencing protocol places single fragments of DNA, connected 
 
 So effectively, pyrosequencing involves washing each of 4 dNTPs in order over and over again, and having a camera record which wells light up. The wells that light up when dATP is added have "A" next in their sequence, and so on.  
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image.png)
 
 ### **More Detail**
 
