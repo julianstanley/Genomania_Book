@@ -16,6 +16,7 @@
   * [Single Cell RNA Sequencing](genomics/sequencing-technologies/single-cell-rna-sequencing.md)
 * [Phylogenetics](genomics/phylogenetics/README.md)
   * [Basic Phylogenetic Trees](genomics/phylogenetics/basic-phylogenetic-trees.md)
+  * [Phylogenetic trees by hand](genomics/phylogenetics/phylogenetic-trees-by-hand.md)
 * [Genomic Analysis](genomics/genomic-analysis/README.md)
   * [Phasing](genomics/genomic-analysis/phasing.md)
   * [Imputation](genomics/genomic-analysis/imputation.md)
