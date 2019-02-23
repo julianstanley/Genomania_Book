@@ -91,6 +91,8 @@
       </td>
       <td style="text-align:center">
         <p><a href="bioinformatics-tools/untitled/building-phylogenetic-trees-with-ugene.md">Building phylogenetic trees with UGene</a>
+          <br
+          /><a href="genomics/phylogenetics/phylogenetic-trees-by-hand.md">Phylogenetic trees by hand</a>
         </p>
         <p><a href="genomics/sequencing-technologies/single-cell-rna-sequencing.md">Single Cell RNA Sequencing</a>
         </p>
@@ -149,8 +151,9 @@
     </tr>
     <tr>
       <td style="text-align:center">Lecture 13, February 19</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">Bomba 2017 Paper</td>
+      <td style="text-align:center"><a href="genomics/readings/review-of-rare-variants-in-disease-bomba-2017.md">Bomba 2017 Reading</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">Lecture 14, February 21</td>
