@@ -13,7 +13,7 @@ We can make a graph so that it clearly has a hamiltonian cycle like this: \(1\) 
   
 In the Hamiltonian graph problem, we were trying to visit every node of the graph once. But, there are efficient algorithms to visit every \*edge\* in the graph once. So instead of assigning each k-mer to a node, we will now assign each k-mer located within a read to an edge. This allows the construction of a de Bruijn graph. To make that graph, first make a node for every _unique_ prefix or suffix in a k-mer. So if you have the reads ATTTA and ATTTG, make just one node with the sequence ATTT. Then, if you have two reads-- x and y--where x's prefix is the node and y's suffix is the node, you can connect the prefix from y with the suffix from x. It'll look something like this: 
 
-![A De Bruijn graph](../../.gitbook/assets/image%20%2810%29.png)
+![A De Bruijn graph](../../.gitbook/assets/image%20%2811%29.png)
 
 Now, our problem is to visit every edge in that De Bruijn graph. And, luckily, this \*does\* have an efficient algorithm. It was solved by the famous mathematician Euler when he was trying to figure out how to cross 7 bridges in a city without crossing any bridge twice. The sort of cycle where you cross every edge just once is thus called an Eulerican cycle. He proved that a connected graph with undirected edges contains an Eulerian cycle exactly when every node in the graph has an even number of edges touching it.  
   

@@ -30,7 +30,7 @@ Four reaction mixtures are set up containing Taq polymerase, a primer, template 
 
 Dideoxynucleotides \(ddNTPs\) are identical to deoxynucleotides \(dNTPs\) except that their 3' hydroxyl group has been hydrated into a hydrogen. Since, in DNA elongation, the 3' hydroxyl acts as a nucleophile to extend the strand, a ddNTP blocks further elongation. 
 
-![ddNTP \(right\) lacks the 3&apos;-hydroxyl of a functional dNTP \(left\)](../../.gitbook/assets/image%20%2816%29.png)
+![ddNTP \(right\) lacks the 3&apos;-hydroxyl of a functional dNTP \(left\)](../../.gitbook/assets/image%20%2818%29.png)
 
 In one reaction mixture, assuming an adequate number of elongation cycles and a correct ratio of dNTP:ddNTP \(functional:terminating\), the reaction mixture will contain fragments of the original sequence. All of those fragments will begin at the 5' end of the sequence and end at the particular ddNTP that was in the reaction mixture. For example, the reaction mixture with ddATP will contain all of the fragments of the original DNA strand that end in 'A'. 
 
@@ -38,9 +38,9 @@ With four reaction mixtures, we can begin to build back our sequence. If the DNA
 
 To view the relative sizes of the DNA fragments in each reaction mixture, the ddNTPs that are included in the previous reaction will have been radiolabeled so that they will be visible in gel electrophoresis. Each of the 4 reaction mixtures are loaded into a gel and, working from the bottom of the gel \(smallest fragment\) to the top of the gel \(largest fragment\), we can reconstruct the DNA sequence. Generally, these gels can only accurately discriminate at a **1-bp** resolution up to around 1,000 base pairs. 
 
-![Inferring DNA sequence from gel. Rightmost column shows sequence, from bottom\(5&apos;\) to top \(3&apos;\)](../../.gitbook/assets/image%20%2813%29.png)
+![Inferring DNA sequence from gel. Rightmost column shows sequence, from bottom\(5&apos;\) to top \(3&apos;\)](../../.gitbook/assets/image%20%2814%29.png)
 
-![Overall schematic of Sanger sequencing](../../.gitbook/assets/image%20%2818%29.png)
+![Overall schematic of Sanger sequencing](../../.gitbook/assets/image%20%2820%29.png)
 
 ### **Additional Considerations**
 
@@ -48,11 +48,11 @@ Modern Sanger sequencing does not typically use regular gel electrophoresis \(mo
   
 Instead, ddNTPs are labeled fluorescently with different colors. That way, Sanger sequencing can be done in just one reaction lane. Then, DNA fragments are passed single-file through a gel capillary, and a high-speed camera takes pictures of each DNA fragment \(just like a gel, the smaller fragments move more quickly\) and fluorescent signals from the camera are then transformed into a DNA sequence.
 
-![Schematic for capillary Sanger sequencing](../../.gitbook/assets/image%20%2812%29.png)
+![Schematic for capillary Sanger sequencing](../../.gitbook/assets/image%20%2813%29.png)
 
 #### 
 
-![Original Sanger sequencing gel](../../.gitbook/assets/image%20%289%29.png)
+![Original Sanger sequencing gel](../../.gitbook/assets/image%20%2810%29.png)
 
 
 

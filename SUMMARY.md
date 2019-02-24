@@ -41,6 +41,7 @@
   * [SKAT](statistics/rare-variant-association/skat.md)
 * [Gene expression analysis](statistics/gene-expression-analysis/README.md)
   * [Quantile Normalization Statistics](statistics/gene-expression-analysis/quantile-normalization.md)
+  * [QQ Plots](statistics/gene-expression-analysis/qq-plots.md)
 * [Single Cell RNAseq Analysis](statistics/single-cell-rnaseq-analysis/README.md)
   * [tSNE](statistics/single-cell-rnaseq-analysis/tsne.md)
 * [Genome Assembly](statistics/genome-assembly/README.md)
