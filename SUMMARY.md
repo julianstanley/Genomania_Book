@@ -18,7 +18,7 @@
   * [Basic Phylogenetic Trees](genomics/phylogenetics/basic-phylogenetic-trees.md)
   * [Phylogenetic trees by hand](genomics/phylogenetics/phylogenetic-trees-by-hand.md)
 * [Genomic Analysis](genomics/genomic-analysis/README.md)
-  * [Phasing](genomics/genomic-analysis/phasing.md)
+  * [Phasing \(Haplotype Estimation\)](genomics/genomic-analysis/phasing.md)
   * [Imputation](genomics/genomic-analysis/imputation.md)
 * [Expression Analysis](genomics/genome-analysis/README.md)
   * [Differential Expression Analysis](genomics/genome-analysis/differential-expression-analysis.md)
