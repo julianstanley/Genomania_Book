@@ -51,8 +51,6 @@
 
 ## Bioinformatics Tools and Algorithms
 
-* [UGENE](bioinformatics-tools/untitled/README.md)
-  * [Building phylogenetic trees with UGENE](bioinformatics-tools/untitled/building-phylogenetic-trees-with-ugene.md)
 * [Genome Alignment](bioinformatics-tools/genome-alignment/README.md)
   * [Trinity](bioinformatics-tools/genome-alignment/trinity.md)
 
