@@ -79,7 +79,7 @@
     <tr>
       <td style="text-align:center">Lecture 7, January 29</td>
       <td style="text-align:center">Building phylogenetic trees with UGene</td>
-      <td style="text-align:center"><a href>Building phylogenetic trees with UGene</a>
+      <td style="text-align:center"><a href="genomics/phylogenetics/basic-phylogenetic-trees.md">Building phylogenetic trees with UGene</a>
       </td>
     </tr>
     <tr>
@@ -90,8 +90,9 @@
         <p>DropSeq</p>
       </td>
       <td style="text-align:center">
-        <p><a href>Building phylogenetic trees with UGene</a>
-          <br /><a href="genomics/phylogenetics/phylogenetic-trees-by-hand.md">Phylogenetic trees by hand</a>
+        <p><a href="genomics/phylogenetics/basic-phylogenetic-trees.md">Building phylogenetic trees with UGene</a>
+          <br
+          /><a href="genomics/phylogenetics/phylogenetic-trees-by-hand.md">Phylogenetic trees by hand</a>
         </p>
         <p><a href="genomics/sequencing-technologies/single-cell-rna-sequencing.md">Single Cell RNA Sequencing</a>
         </p>
@@ -156,18 +157,19 @@
     </tr>
     <tr>
       <td style="text-align:center">Lecture 14, February 21</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">Bomba 2017 Presentations</td>
+      <td style="text-align:center"><a href="genomics/readings/review-of-rare-variants-in-disease-bomba-2017.md">Bomba 2017 Reading</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">Lecture 15, February 26</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">Exam Review, Presentations</td>
+      <td style="text-align:center">N/A</td>
     </tr>
     <tr>
       <td style="text-align:center">Lecture 16, February 28</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">Exam</td>
+      <td style="text-align:center">N/A</td>
     </tr>
     <tr>
       <td style="text-align:center">EXAM Cutoff</td>
